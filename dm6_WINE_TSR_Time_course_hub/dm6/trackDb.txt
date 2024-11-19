@@ -1,0 +1,355 @@
+
+
+track minus
+shortLabel minus
+longLabel minus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track nas8.minus
+    parent minus on
+    bigDataUrl CAGE/nas8.minus.bigWig
+    shortLabel nas8.minus
+    longLabel nas8.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep2_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep2_soft_clipped.minus.bigWig
+    shortLabel NC14_yw_rep2_soft_clipped.minus
+    longLabel NC14_yw_rep2_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep2.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep2.minus.bigWig
+    shortLabel NC14_yw_rep2.minus
+    longLabel NC14_yw_rep2.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep3_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep3_soft_clipped.minus.bigWig
+    shortLabel NC14_yw_rep3_soft_clipped.minus
+    longLabel NC14_yw_rep3_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep3.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep3.minus.bigWig
+    shortLabel NC14_yw_rep3.minus
+    longLabel NC14_yw_rep3.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep4_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep4_soft_clipped.minus.bigWig
+    shortLabel NC14_yw_rep4_soft_clipped.minus
+    longLabel NC14_yw_rep4_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep4.minus
+    parent minus on
+    bigDataUrl CAGE/NC14_yw_rep4.minus.bigWig
+    shortLabel NC14_yw_rep4.minus
+    longLabel NC14_yw_rep4.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep2_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep2_soft_clipped.minus.bigWig
+    shortLabel PB_yw_rep2_soft_clipped.minus
+    longLabel PB_yw_rep2_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep2.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep2.minus.bigWig
+    shortLabel PB_yw_rep2.minus
+    longLabel PB_yw_rep2.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep3_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep3_soft_clipped.minus.bigWig
+    shortLabel PB_yw_rep3_soft_clipped.minus
+    longLabel PB_yw_rep3_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep3.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep3.minus.bigWig
+    shortLabel PB_yw_rep3.minus
+    longLabel PB_yw_rep3.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep4_soft_clipped.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep4_soft_clipped.minus.bigWig
+    shortLabel PB_yw_rep4_soft_clipped.minus
+    longLabel PB_yw_rep4_soft_clipped.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep4.minus
+    parent minus on
+    bigDataUrl CAGE/PB_yw_rep4.minus.bigWig
+    shortLabel PB_yw_rep4.minus
+    longLabel PB_yw_rep4.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track tot8.minus
+    parent minus on
+    bigDataUrl CAGE/tot8.minus.bigWig
+    shortLabel tot8.minus
+    longLabel tot8.minus
+    type bigWig
+    color 0,0,255
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+
+track plus
+shortLabel plus
+longLabel plus
+type bigWig
+autoScale on
+visibility full
+compositeTrack on
+
+    track nas8.plus
+    parent plus on
+    bigDataUrl CAGE/nas8.plus.bigWig
+    shortLabel nas8.plus
+    longLabel nas8.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep2_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep2_soft_clipped.plus.bigWig
+    shortLabel NC14_yw_rep2_soft_clipped.plus
+    longLabel NC14_yw_rep2_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep2.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep2.plus.bigWig
+    shortLabel NC14_yw_rep2.plus
+    longLabel NC14_yw_rep2.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep3_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep3_soft_clipped.plus.bigWig
+    shortLabel NC14_yw_rep3_soft_clipped.plus
+    longLabel NC14_yw_rep3_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep3.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep3.plus.bigWig
+    shortLabel NC14_yw_rep3.plus
+    longLabel NC14_yw_rep3.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep4_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep4_soft_clipped.plus.bigWig
+    shortLabel NC14_yw_rep4_soft_clipped.plus
+    longLabel NC14_yw_rep4_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track NC14_yw_rep4.plus
+    parent plus on
+    bigDataUrl CAGE/NC14_yw_rep4.plus.bigWig
+    shortLabel NC14_yw_rep4.plus
+    longLabel NC14_yw_rep4.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep2_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep2_soft_clipped.plus.bigWig
+    shortLabel PB_yw_rep2_soft_clipped.plus
+    longLabel PB_yw_rep2_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep2.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep2.plus.bigWig
+    shortLabel PB_yw_rep2.plus
+    longLabel PB_yw_rep2.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep3_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep3_soft_clipped.plus.bigWig
+    shortLabel PB_yw_rep3_soft_clipped.plus
+    longLabel PB_yw_rep3_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep3.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep3.plus.bigWig
+    shortLabel PB_yw_rep3.plus
+    longLabel PB_yw_rep3.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep4_soft_clipped.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep4_soft_clipped.plus.bigWig
+    shortLabel PB_yw_rep4_soft_clipped.plus
+    longLabel PB_yw_rep4_soft_clipped.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track PB_yw_rep4.plus
+    parent plus on
+    bigDataUrl CAGE/PB_yw_rep4.plus.bigWig
+    shortLabel PB_yw_rep4.plus
+    longLabel PB_yw_rep4.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+
+    track tot8.plus
+    parent plus on
+    bigDataUrl CAGE/tot8.plus.bigWig
+    shortLabel tot8.plus
+    longLabel tot8.plus
+    type bigWig
+    color 255,0,0
+    visibility full
+    maxHeightPixels 100:32:8
+    autoscale group
+    autoScale on
+

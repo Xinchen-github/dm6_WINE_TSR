@@ -1,0 +1,5 @@
+hub dm6_WINE_TSR_Time_course_hub 
+shortLabel dm6_WINE_TSR_Time_course_hub
+longLabel dm6_WINE_TSR_Time_course_hub
+genomesFile genomes.txt
+email x.zou23@lms.mrc.ac.uk
